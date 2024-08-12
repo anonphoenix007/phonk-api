@@ -3,6 +3,7 @@ Phonk api from https://github.com/o2755523/phonk-api remake by me(Taira Makino) 
 ###Application 
 
 ``` js
+
 case 'sound1':
 case 'sound2':
 case 'sound3':
