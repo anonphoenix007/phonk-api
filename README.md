@@ -99,7 +99,7 @@ case 'sound92':
 case 'sound93':
 case 'sound94':
 case 'sound95': {
-reslt = await getBuffer(`https://github.com/anonphoenix007/phonk-api/raw/master/all/${command}.mp3`)
+reslt = await getBuffer(`https://github.com/anonphoenix007/phonk-api/raw/main/all/${command}.mp3`)
 await Taira.sendMessage(m.chat, { audio: reslt, mimetype: 'audio/mp4', ptt: true }, { quoted: m })
 await Taira.sendMessage(m.chat, { text: `By: Taira Makino @https://github.com/anonphoenix007\n\nhttps://t.me/Tha_Healer`}, { quoted: m });
 }
@@ -108,3 +108,19 @@ break
 
 
 If you used this Api then please give credit to owner 😪.
+This Is Taira Tech Support 🦄 
+channel link  =>
+https://whatsapp.com/channel/0029Vag5l2ALSmbi14YryJ2r
+
+Owner => Taira Makino
+ https://t.me/Tha_Healer 
+
+Official GC => https://chat.whatsapp.com/DOVRqF006VHHZhiSNwJRce
+
+GitHub 👇
+https://github.com/Anonphoenix007
+
+Makino-md-v2 👇
+https://github.com/Anonphoenix007/MAKINO-MD-V2
+
+don't forget to star and fork repo,Check my latest projects also 🤗
